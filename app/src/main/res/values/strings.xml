@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StepCountV1</string>
+    <string name="counterStarted">Counter started/resetted!!</string>
+</resources>
